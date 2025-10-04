@@ -1,6 +1,6 @@
 # Hi there, I'm Arpita Dubey 👋
 A Frontend Developer
-Currently building robust web applications with backend development and DevOps
+currently building robust web applications with backend development and DevOps
 
 
 # 💻 Tech Stack:
